@@ -1,0 +1,17 @@
+{
+  "name": "voice-chat",
+  "version": "1.0.0",
+  "description": "a simple voice chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mdvlpr1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "node-fetch": "^3.3.1",
+    "socket.io": "^4.7.1"
+  }
+}
